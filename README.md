@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/825f97d3-91e6-4be2-8faa-86842daaa297)
-<h1>Configuring a virtual machien and remote desktop (Azure)</h1>
+<h1>Configuring a virtual machine and remote desktop (Azure)</h1>
 This tutorial outlines the implementation of Azure Virtual Machines and remote desktop.<br />
 
 
